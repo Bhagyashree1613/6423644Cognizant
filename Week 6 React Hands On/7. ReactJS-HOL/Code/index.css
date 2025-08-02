@@ -1,0 +1,28 @@
+/* src/index.css */
+.centered {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.title {
+  color: green;
+}
+
+.styled-table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 300px;
+  font-family: Arial, sans-serif;
+}
+
+.styled-table th,
+.styled-table td {
+  border: 1px solid gray;
+  padding: 10px;
+  text-align: center;
+  color: seagreen;
+}
+
+.styled-table th {
+  font-weight: bold;
+}
